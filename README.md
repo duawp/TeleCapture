@@ -1,10 +1,11 @@
 
 # 𝐓𝐞𝐥𝐞𝐂𝐚𝐩𝐭𝐮𝐫𝐞
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5a086c41-43c1-442e-b4da-5553a1876ded" alt="Telegram Logo" width="200"/>
+</div>
 
-  ![cybersecurity-tips-100-125](https://github.com/user-attachments/assets/25e43d33-9af3-4f0b-8ac6-8140a5357e99)
-
-TeleCapture is a versatile tool designed to capture various forms of user activity and system data, including:
+### TeleCapture is a versatile tool designed to capture various forms of user activity and system data, including:
 
 - **Screenshots**: Capture periodic snapshots of the user's screen.
 - **Keylogging**: Log all keystrokes from the user's keyboard.
