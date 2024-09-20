@@ -22,13 +22,21 @@ This tool is perfect for monitoring and capturing data for research purposes, wi
 - **Secure Communication**: Uses libcurl to send data over the internet.
 
 ## 𝙍𝙚𝙦𝙪𝙞𝙧𝙚𝙢𝙚𝙣𝙩𝙨
-
+ - **TelegramBot**: You need to make a telegram bot. There is an example called "senapai.py" you can use to make a simple bot 
 To use TeleCapture, you'll need the following libraries installed:
 
 - **OpenCV**: Required for capturing screenshots and webcam images.
 - **SQLite3**: For storing captured data locally in a database.
 - **libcurl**: To securely send data over the network.
 - **zlib**: Used for data compression.
+
+
+
+
+- **Telegram bot token, and chat id**: Enter your token and chat id in the strings.
+![Screenshot 2024-09-20 105327](https://github.com/user-attachments/assets/9408aaec-ae2b-412d-970a-56c9e916c140)
+
+
 
 ## 𝙞𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣
 
